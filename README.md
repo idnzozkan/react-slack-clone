@@ -1,6 +1,6 @@
 # Slack Clone
 
-Slack-like web application built with React.js.
+Slack-like web application built with `React.js`.
 
 **Other used technologies are:** Firebase (Authentication, Firestore Database, Hosting), styled-components, React Spinners, Redux Toolkit
 
