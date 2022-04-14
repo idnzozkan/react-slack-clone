@@ -10,7 +10,7 @@ Slack-like web application built with `React.js`.
 
 Before running the application, you need to set the required environment variables. In order to do that, you can use the provided example env file.
 
-Go to the **root directory** of the project and rename the existing file named `.env.example` to `.env.local` first. After that, open up the file and fill it in like the following.
+Get to the **root directory** of the project and rename the existing file named `.env.example` to `.env.local` first. After that, open up the file and fill it in like the following.
 
 ```bash
 REACT_APP_FIREBASE_API_KEY=API_KEY
